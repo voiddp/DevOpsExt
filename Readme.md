@@ -1,2 +1,3 @@
-Epam DevOpsExtarnal Course 
 Danylenko Victor Tasks Repository
+
+Epam DevOps External Course
