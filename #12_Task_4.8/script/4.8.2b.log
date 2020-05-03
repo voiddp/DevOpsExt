@@ -1,0 +1,1170 @@
+/home/AnotherUser:
+total 624212
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 тра  3 02:43 4.8_script
+-rw-r--r--  1 AnotherUser AnotherUser     10240 тра  2 22:26 a
+-rw-------  1 AnotherUser AnotherUser      1683 тра  2 22:47 .bash_history
+-rw-r--r--  1 AnotherUser AnotherUser       220 бер 28 17:56 .bash_logout
+-rw-r--r--  1 AnotherUser AnotherUser      3771 бер 28 17:56 .bashrc
+drwx------ 14 AnotherUser AnotherUser      4096 бер 29 17:41 .cache
+drwx------ 11 AnotherUser AnotherUser      4096 бер 28 18:11 .config
+-rw-r--r--  1 AnotherUser AnotherUser       137 тра  2 22:26 AnotherUser-ubuntu.yaml
+drwxr-xr-x  3 AnotherUser AnotherUser      4096 тра  2 22:26 Desktop
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 бер 28 18:07 Documents
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 бер 28 18:07 Downloads
+-rw-r--r--  1 AnotherUser AnotherUser      8980 тра  2 22:26 examples.desktop
+drwxr-xr-x  3 AnotherUser AnotherUser      4096 тра  2 22:26 extracted
+drwxr-xr-x  3 AnotherUser AnotherUser      4096 тра  2 22:26 extracted2
+drwxr-xr-x  3 AnotherUser AnotherUser      4096 тра  2 22:26 extracted3
+drwx------  3 AnotherUser AnotherUser      4096 бер 28 18:07 .gnupg
+-rw-r--r--  1 AnotherUser AnotherUser         0 тра  2 22:26 gzip_tar_gz
+-rw-r--r--  1 AnotherUser AnotherUser     12800 тра  2 22:26 hello.tar
+-rw-------  1 AnotherUser AnotherUser      3052 тра  2 22:48 .ICEauthority
+-rw-r--r--  1 AnotherUser AnotherUser 191991808 тра  2 22:26 lastimage.tar
+drwx------  3 AnotherUser AnotherUser      4096 бер 28 18:07 .local
+-rw-r--r--  1 AnotherUser AnotherUser        21 тра  2 22:26 local_file
+-rw-r--r--  1 AnotherUser AnotherUser       346 тра  2 22:26 logger
+-rw-r--r--  1 AnotherUser AnotherUser         0 тра  2 22:26 ~log.txt
+-rw-r--r--  1 AnotherUser AnotherUser       116 тра  2 22:26 log.txt
+drwx------  5 AnotherUser AnotherUser      4096 бер 29 17:10 .mozilla
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 бер 28 18:07 Music
+-rw-r--r--  1 AnotherUser AnotherUser 190109184 тра  2 22:26 myimage111.tar
+-rw-r--r--  1 AnotherUser AnotherUser 190109184 тра  2 22:26 myimage.tar
+-rw-r--r--  1 AnotherUser AnotherUser  66611200 тра  2 22:26 myubuntu.tar
+-rw-r--r--  1 AnotherUser AnotherUser        17 тра  2 22:26 nam.txt
+-rw-r--r--  1 AnotherUser AnotherUser        54 тра  2 22:26 nano
+-rw-r--r--  1 AnotherUser AnotherUser       683 тра  2 22:26 null
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 бер 28 18:07 Pictures
+-rw-r--r--  1 AnotherUser AnotherUser       807 бер 28 17:56 .profile
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 бер 28 18:07 Public
+-rw-r--r--  1 AnotherUser AnotherUser        22 тра  2 22:26 remote_file
+-rw-r--r--  1 AnotherUser AnotherUser      2478 тра  2 22:26 result
+-rw-r--r--  1 AnotherUser AnotherUser     46716 тра  2 22:26 root_entries.txt
+-rwxr-xr-x  1 AnotherUser AnotherUser        39 тра  2 22:26 script.sh
+-rw-r--r--  1 AnotherUser AnotherUser     20386 тра  2 22:26 setuid.txt
+-rw-r--r--  1 AnotherUser AnotherUser     20395 тра  2 22:26 setupid2.txt
+-rw-r--r--  1 AnotherUser AnotherUser     20386 тра  2 22:26 setupid.txt
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 тра  2 22:26 share
+-rw-r--r--  1 AnotherUser AnotherUser       191 тра  2 22:26 shell-demo.yaml
+-rw-r--r--  1 AnotherUser AnotherUser       150 тра  2 22:26 shell-demo.yaml.1
+drwxr-xr-x  3 AnotherUser AnotherUser      4096 тра  2 22:26 snap
+drwx------  2 AnotherUser AnotherUser      4096 бер 29 16:53 .ssh
+-rw-r--r--  1 AnotherUser AnotherUser         0 бер 28 20:50 .sudo_as_admin_successful
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 бер 28 18:07 Templates
+drwx------  6 AnotherUser AnotherUser      4096 бер 29 17:41 .thunderbird
+drwxr-xr-x  3 AnotherUser AnotherUser      4096 тра  2 22:26 tmp
+-rw-r--r--  1 AnotherUser AnotherUser       362 тра  2 22:26 ubuntu-local.yaml
+-rw-r--r--  1 AnotherUser AnotherUser     10240 тра  2 22:26 v
+-rw-r--r--  1 AnotherUser AnotherUser     10240 тра  2 22:26 va
+-rw-r-----  1 AnotherUser AnotherUser         5 тра  2 22:48 .vboxclient-display.pid
+-rw-r-----  1 AnotherUser AnotherUser         5 тра  2 22:48 .vboxclient-draganddrop.pid
+-rw-r-----  1 AnotherUser AnotherUser         5 тра  2 22:48 .vboxclient-seamless.pid
+drwxr-xr-x  2 AnotherUser AnotherUser      4096 бер 28 18:07 Videos
+-rw-r--r--  1 AnotherUser AnotherUser     10240 тра  2 22:26 z
+
+/home/AnotherUser/4.8_script:
+total 260
+-rw-r--r-- 1 AnotherUser AnotherUser  4096 тра  3 02:43 4.8.1.log
+-rw-r--r-- 1 AnotherUser AnotherUser 67460 тра  3 02:38 4.8.2a.log
+-rw-r--r-- 1 AnotherUser AnotherUser 64544 тра  3 02:38 4.8.2b.log
+-rw-r--r-- 1 AnotherUser AnotherUser 65964 тра  3 02:38 4.8.3.log
+-rw-r--r-- 1 AnotherUser AnotherUser 20752 тра  3 02:38 4.8.4.log
+-rw-r--r-- 1 AnotherUser AnotherUser 13771 тра  3 02:38 4.8.5.log
+-rw-r--r-- 1 AnotherUser AnotherUser 10819 тра  3 02:38 4.8.6.log
+-rwxr-xr-x 1 AnotherUser AnotherUser   719 тра  3 02:43 run.sh
+
+/home/AnotherUser/.cache:
+total 64
+-rw-r--r-- 1 AnotherUser AnotherUser 16384 бер 28 18:15 event-sound-cache.tdb.b7dcb1a30b9840e994d0aa8f7a24ec4c.x86_64-pc-linux-gnu
+drwx------ 8 AnotherUser AnotherUser  4096 бер 28 18:07 evolution
+drwxr-xr-x 2 AnotherUser AnotherUser  4096 бер 29 17:41 fontconfig
+drwxrwxr-x 7 AnotherUser AnotherUser  4096 бер 28 18:09 gnome-software
+drwxrwxr-x 2 AnotherUser AnotherUser  4096 бер 28 20:41 gstreamer-1.0
+drwxrwxr-x 3 AnotherUser AnotherUser  4096 бер 28 18:07 ibus
+drwxrwxr-x 2 AnotherUser AnotherUser  4096 бер 28 18:07 ibus-table
+drwx------ 2 AnotherUser AnotherUser  4096 бер 28 18:07 libgweather
+drwx------ 3 AnotherUser AnotherUser  4096 бер 29 17:10 mozilla
+drwx------ 4 AnotherUser AnotherUser  4096 бер 29 17:41 thunderbird
+drwx------ 2 AnotherUser AnotherUser  4096 бер 28 18:11 ubuntu-report
+drwxrwxr-x 2 AnotherUser AnotherUser  4096 бер 28 18:09 update-manager-core
+drwx------ 2 AnotherUser AnotherUser  4096 тра  2 22:45 wallpaper
+
+/home/AnotherUser/.cache/evolution:
+total 24
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 addressbook
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 calendar
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 mail
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 memos
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 sources
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 tasks
+
+/home/AnotherUser/.cache/evolution/addressbook:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.cache/evolution/addressbook/trash:
+total 0
+
+/home/AnotherUser/.cache/evolution/calendar:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.cache/evolution/calendar/trash:
+total 0
+
+/home/AnotherUser/.cache/evolution/mail:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.cache/evolution/mail/trash:
+total 0
+
+/home/AnotherUser/.cache/evolution/memos:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.cache/evolution/memos/trash:
+total 0
+
+/home/AnotherUser/.cache/evolution/sources:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.cache/evolution/sources/trash:
+total 0
+
+/home/AnotherUser/.cache/evolution/tasks:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.cache/evolution/tasks/trash:
+total 0
+
+/home/AnotherUser/.cache/fontconfig:
+total 12
+-rw-rw-r-- 1 AnotherUser AnotherUser 1664 бер 29 17:41 2e755eb509a594ba7adde982574983b5-le64.cache-7
+-rw-rw-r-- 1 AnotherUser AnotherUser 1656 бер 29 17:10 a41116dafaf8b233ac2c61cb73f2ea5f-le64.cache-7
+-rw-r--r-- 1 AnotherUser AnotherUser  200 бер 29 17:10 CACHEDIR.TAG
+
+/home/AnotherUser/.cache/gnome-software:
+total 32
+drwxrwxr-x 2 AnotherUser AnotherUser  4096 бер 28 18:09 cssresource
+drwxrwxr-x 3 AnotherUser AnotherUser  4096 бер 28 18:09 fwupd
+drwxrwxr-x 2 AnotherUser AnotherUser 16384 бер 29 15:48 icons
+drwxrwxr-x 2 AnotherUser AnotherUser  4096 бер 28 18:09 odrs
+drwxrwxr-x 2 AnotherUser AnotherUser  4096 бер 28 18:09 shell-extensions
+
+/home/AnotherUser/.cache/gnome-software/cssresource:
+total 240
+-rw-rw-r-- 1 AnotherUser AnotherUser 245682 бер 28 18:09 a6738e117c8a8ed8021d8b5ada7e03d463ddd3cf-glimpse-snapcraft-banner.png
+
+/home/AnotherUser/.cache/gnome-software/fwupd:
+total 4
+drwxrwxr-x 3 AnotherUser AnotherUser 4096 бер 28 18:09 remotes.d
+
+/home/AnotherUser/.cache/gnome-software/fwupd/remotes.d:
+total 4
+drwxrwxr-x 2 AnotherUser AnotherUser 4096 бер 28 18:09 lvfs
+
+/home/AnotherUser/.cache/gnome-software/fwupd/remotes.d/lvfs:
+total 312
+-rw-rw-r-- 1 AnotherUser AnotherUser 312251 бер 28 18:09 metadata.xml.gz
+-rw-rw-r-- 1 AnotherUser AnotherUser    490 бер 28 18:09 metadata.xml.gz.asc
+
+/home/AnotherUser/.cache/gnome-software/icons:
+total 852
+-rw-rw-r-- 1 AnotherUser AnotherUser  5144 бер 29 15:48 03d7afe821e8ef090584c80e62ed44928595ce87-vidcutter.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1153 бер 28 18:13 047f48b6aa3672f7374b229ca5167618c3f33485-icon_512.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2264 бер 28 18:12 0695116214c356dcd95b85372fc0eea2b183ea53-bomber.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4474 бер 28 18:12 08fd94dec0e71edb3ef60573bd0e6d046f2e3591-heartbeat.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4792 бер 28 18:09 0904c77d45c89301293ba50309ad33ea4b8abfee-supertuxkart-256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5154 бер 28 18:12 096fc810fa2eb884a1c7979a6fab9f144f0b0a06-icon_2.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  8610 бер 29 15:48 0cda02fb6e328ff19c0b8548b92266b5bc344836-handbrake-jz.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3582 бер 29 15:48 0d46914ea561fcf57155689d602a0f64c608bf99-mpv.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4968 бер 28 18:13 0ff3c54dd43b9288e821006e77b40992f15cd436-kgoldrunner_m4iRUVR.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4394 бер 28 18:13 1006c07228e816b2c0e046579caaefdff7c20cbe-kreversi_VIE4fr4.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3582 бер 29 15:48 100f1ad6f4e08fd4088c158479e4deacf6c13d07-mpv-256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  8008 бер 28 18:12 103789d46ea870a644cc959eb262d2c6f3744f5f-icon_k2Rz5tZ.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  9213 бер 28 18:12 10f3db35429eda68f7becd7ea3eb05d3177f18cf-icon_256_1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4393 бер 28 18:12 12002366d274168a7c08b901b0bee7687968a1c8-mrrescue.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3728 бер 28 18:09 132ddc6dc4f8b457cc6b4967f834c833116d8232-quadrapassel.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2448 бер 28 18:13 170b2f629033284cc59328f1273aeb39c2077d79-icon_20.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6440 бер 28 18:13 1af285d19b86af656baf06210c83a18f846ecf47-sayonara_GmErOUD.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2134 бер 29 15:48 1f03940cf821fefbb5f8a96bc34ca0a8bc43ff3c-pictogram-upgrade-orange-hex.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3558 бер 29 17:21 1fb4c9982b9000dfb26df3e36399f7304b655d5b-phpL92gCmAM.png.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6589 бер 28 18:09 1fcacb39f7555ac8cf94df5bd7b279fdb174bc03-icon256_f9302jP.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2727 бер 28 18:09 1fda18d20714a95e6f3f50b3d1e058b371b147fb-obs-studio.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2432 бер 28 18:12 20e97c65422a8011ad53dd12929052bddf109e3b-icon_MZV58q1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3453 бер 28 18:09 23221e9f3f2966856de7f0800a59c7fc7c4526e7-icon256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3919 бер 28 18:12 23a83fe8db7a4e5e8fa35569022c4abcc28d3367-icon.svg_Uva1OGE.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2498 бер 28 18:09 24d2f58b9069927a26b189cb3da4e8dc336c2da0-Noson_1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6535 бер 28 18:12 26ad89711b10b734668a7519d9cbd0224c40cec5-strawberry256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2415 бер 28 18:09 28d52c442c3a253e2212da1b293a2a003b39f94a-blender.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2160 бер 28 18:12 2a2bf7e353aa6ecb7d3480e1ae6e775df5203bc3-icon_vO6HB0D.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2598 бер 28 18:09 2b18427b0d11339cbeab771848ebad7fd5aa974f-Mark256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3931 бер 28 18:09 2bb8258b086b2b425c94613be69bff27c15fd1fb-snap_odio_logo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2681 бер 29 15:48 2df098d58d0c51655acd5e39811c3416eacaf3a3-quake-shareware.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3840 бер 28 18:12 2ed433c9a11d4c06a831b45ed3651c59b1580b97-tmb.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2344 бер 28 18:12 319dfc7b8d6657e0bceb5d6cfa7dd56134e6b2ee-kanagramicon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  8078 бер 28 18:13 32651896ba987f65978c5c74c1fa281562b16012-knetwalk_rNySFRA.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4027 бер 29 15:48 350351602d665158fa996d0b0f06086e1b6e0715-plex-pms-icon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3498 бер 28 18:09 38b0df933929f73cb8822af9fd4af33150ae5300-org.glimpse_editor.Glimpse.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5082 бер 28 18:09 3ab7ab7ae0fe55451c3df091959f95e7f886993c-asunder_waifu2x_art_scale_tta_1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1542 бер 28 18:09 3cb5a014019dc3c144500115a796258d60e0cd0a-SongBuilderColourIcon256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3995 бер 28 18:09 3ed171f54802c784d5b5a49ef91ece96718658aa-vlc.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3791 бер 28 18:12 40b254bbcd43964555d232c9b402f963d46ffb9a-klickety.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3539 бер 29 15:48 41aaa5a3cd4d062c801dd28fbd0e0bb730523350-icon_256x256_XzTcJux.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6093 бер 28 18:09 45793708ff0073e861e40099fa665aec365a898f-icon_app256_1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4620 бер 28 18:13 45c723fd614ee922978171fa043c9a14e4d24fdc-kigo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2609 бер 28 18:13 482da79d0ef3e65f9cf69e13cdb69ae67a2e43f4-kblackbox.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4569 бер 28 18:09 496b7efe122d3ac96185a441fa5d7512295d7399-Audacity_Logo_large.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5314 бер 28 18:12 4bb50967c9125609532903aa13b0b1b6c274c0dd-kubrick.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4894 бер 29 15:48 4bc048c2d6ab0bb70d6b4961a4796c9c6cb87373-smartscreen_256x256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4272 бер 28 18:12 4bcd0e69c25b64647575e1b127a8477b1d40feb3-kspaceduel.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6285 бер 28 18:09 4c97c00c96e33802b404d2b0558c3d219f5bbd84-icon_11.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1478 бер 29 15:48 4d8c1fd87e2f5b4e6c6171cbfe2279fd744858b5-b8a85a31-MicroK8s_SnapStore_icon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6162 бер 28 18:12 4dbc8338f2d7915be5850cb4afaa9e1513c984cd-kmahjongg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3170 бер 28 18:09 4e763d64d7d04a3b072fcb90e3798530916c6b8a-spotify-linux-256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3847 бер 28 18:09 4e9bbdcf747529656b0da0b0ebb69c1120eefa81-binfwall.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4991 бер 28 18:13 5198e802c0ad6c531b3203ca3216fdb4a94966fb-killbots_3X2FBuM.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4146 бер 28 18:09 547b40172a110e061ce9c9838cabe9a1f0548522-containers.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4372 бер 28 18:09 55634c59cfeb9a984315379903453fea99aae0b5-tizonia-logo-256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4785 бер 28 18:12 55b802383834c6c766324926659fe71daedd169e-palapeli_9eQYMiV.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2993 бер 29 15:48 56a7fe4a0819f942c28843cf0183354b133bab86-Powershell_black.ico.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3138 бер 28 18:09 56b557349e742308287800b4c4b5869222dd375e-e.png
+-rw-rw-r-- 1 AnotherUser AnotherUser   655 бер 28 18:13 5874c3e823fc8c4b8e7e457b165c53261bcc06e0-256x256logo-transparent.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1953 бер 28 18:09 5d31b590c4e78b8fd0fec4a2c22ac8793673a51a-terminal.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6091 бер 28 18:12 5e2e2e30eed17c1f58385c038e019f1c4926c157-icon_B2sc22P.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3577 бер 28 18:09 6152d2f7ea6415f0993eedb0c1d9673397a23466-boa.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4074 бер 29 15:48 658a8dbf6ad5a1ad58f8c2a3e60716dea46d6e20-icon_14.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3663 бер 28 18:12 65f7e3966ca152714e7e6a9b4e469095d86d965f-subsonic_logo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4073 бер 28 18:09 689d3aa1d3f6f0f5914289b309ecf4daf6ca3487-mscore.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  7408 бер 28 18:12 68e92fd32568c0d72561f7da21e8c20d6adbf0c3-discographer-icon-256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3583 бер 28 18:09 6955575c4eabded3ab8183d40903a03a384083cc-mcinstaller.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3430 бер 28 18:09 6b96ae718dd1bb30451d50b4ee9b52184be62251-scummvm_icon_512.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  7313 бер 28 18:12 6bb191aa19eafad4c89113043d47e0fcba9ade5e-full-discography-icon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3712 бер 28 18:09 6cc8007614a557fe7009ddb3d63327130069ac39-tome.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5446 бер 29 15:48 6d5fa38484aa15db329b9f86eeb6b98545277b20-Pictures-icon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2607 бер 28 18:12 6f49c816c21a39a0229a07c7161bb50681a382f3-icon_5aZMXIN.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2593 бер 28 18:12 703f05eba08510dc34016f76fff1124849a571fa-saoxlogo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser   403 бер 29 15:48 7172c35f9999131b024d7239ed874cbf2229bf79-shotcut-logo-256x256_1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  7934 бер 28 18:12 72aa7b94db7dc6f9217a8794fd08de04324026a3-spt256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6088 бер 29 15:48 747a05759313a8db1610a6a873df48bd4c74a843-eog.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3057 бер 28 18:12 7a8133f078bf5350df0d56a8d7c53f03c0854d78-shattered-pixel-dungeon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6134 бер 28 18:09 7ac77d66878d76986ac510bd4c0fb93b4d1d3332-micropolis.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5400 бер 28 18:09 80f00cf6776978a1b530f5cb0df8f1b1d1f02023-icon_s4HbwJl.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4863 бер 28 18:09 830e5e1c9d02cee5b9d99dbf249466810e517fad-icon_app256_6.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4998 бер 28 18:13 83267b3de217f604ff2a32b97023afc0ed6ded38-icon.svg_1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2666 бер 29 15:48 84b8a33b3de6fb9661a282170e9523fc36cd135d-htslogo_256x256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4012 бер 28 18:09 8638f0eb382cd9756cff50de3eb44273e1cf184c-codium_blue_light.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4381 бер 28 18:09 866d0ad06bd38b2ca7f1344ac0aca6d373ba66ff-deadbeef_logo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  8486 бер 28 18:09 87b9161d12dcafb45a174744e27b481236d0e6ad-warzone2100.large.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  8848 бер 28 18:09 895068db1063e82ec50be18cf63a9bd782415da0-dosbox-x.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1305 бер 28 18:13 8fa58b36f4ea830fd454c9adce9213417c9b3edf-Logo_Dropbox.png
+-rw-rw-r-- 1 AnotherUser AnotherUser   478 бер 28 18:09 934d15b554644f1b204ddad21c7ed8a8195fd741-sdlpop.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5898 бер 28 18:09 9a2416be9513b0183e00ef958e0c8d38892b1109-mars-256_etORXwv.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3411 бер 28 18:12 9ba2bfe4304423cb2f213466e2be1f1cc5112a18-256x256_1.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5097 бер 29 15:48 9bd5805edd619f40eab375e7b7a0cee31aec827e-256x256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser   522 бер 28 18:09 9c20a5b19e23bbcde372312801683dfebc671c28-Blue-Rounded-512.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3855 бер 28 18:12 9ccc148c89267997824268c0cfc8566058708ba5-cumulonimbus.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6499 бер 28 18:12 9d08d2edd2ff8ec1864fdf26ec59075c864000a4-banner-icon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2193 бер 29 15:48 9ea65409a2badb433cfed68f01cce6c4bdc41d08-icon_5.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6027 бер 28 18:09 a0b064853b9c7c21e395f8d25649307f74eb52ee-gallery_4_9_63565.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2200 бер 28 18:12 a1bad5345f7d8ab427ad15f1c543b3457e2177cf-kapman.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6992 бер 29 15:48 a1cac3c7e6b42016b6803217f6de13632ef004ec-mkvtoolnix_logo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3394 бер 28 18:13 a381fc993ef1016d7b8f5814ffd48c61d59ec154-512x512.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2894 бер 28 18:09 a48d9a08b9b13c151800f9d65edbb62e76e8e47c-icon.svg_4.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2309 бер 28 18:12 a51773b4002aaa3f31e474ddc825c120402b1175-zzt_256a.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4365 бер 28 18:09 a5c5cb309634811cb83badeb53dc5dc4b34ec529-icon.svg_RcVGnxA.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2099 бер 28 18:12 a692076eb30220f3fa07ec1c02ea98aea89ac95f-granatier.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6895 бер 28 18:12 a6c07cc292eaa2d52b15a054d8ec4b89dbe27109-kwave_LKlRQMU.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4905 бер 28 18:12 b1907f91ef077f7f96f5eef1c25527c6fd366395-klines.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1213 бер 28 18:09 b38975c2b6a8f6a166f856ff828ab0e276916e69-colorpicker-black256px.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2348 бер 28 18:09 b76c939b5187194e1abf0979b9642bd4c08eca01-auryo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser 12354 бер 28 18:12 b83e8a3dcef3233daa2642171f8fb567092db4c0-icon_m5plxT3.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4412 бер 28 18:09 ba2740d47e8cf02e2f3a4f1583c3f946e5c18df8-foobar2000.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3482 бер 28 18:09 bb09826e06999e558434b7f8b0cc2f13ac0fc275-256-GTK_logo.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1529 бер 28 18:13 bc1e57a1acf9b0cc82d290d829340e4b37ff5f7e-favicon.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5139 бер 28 18:09 c0cac08604a88607cc63b6dbf459dcc422c5c729-codebreakers.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1737 бер 28 18:13 c466e294f5ddf50c76ee063a30493a655ceb4ec9-kbreakout.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2301 бер 29 15:48 c94ae1ff0cd77d94a6ae1505e04bf6b6e23f688f-webcam.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2910 бер 28 18:09 c99f277e3dd19157483ddfc205b82d95021329b9-openra.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4379 бер 28 18:13 cb3d51cf0504b6dbb24e943a2f0c2c58e5b1fde8-kmines.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3737 бер 28 18:13 d493e28662e0546604baa810c06a1f9ff03b0705-ksudoku.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5968 бер 28 18:09 d5ed487a072f15133eb5f8f12df6d25e4d0a4677-transitions256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5154 бер 29 15:48 d70c34d85dc5cb7b38c39f1f3a9b03fc4877068f-ffmpeg_LvkKa6R.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2186 бер 29 15:48 d921c79c2a5f6a5cd92846701bcb693ac2799031-livetuner.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2293 бер 28 18:09 daa12f6b881cba67f77fc5e4810b21d798d22c33-icon-circle.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  7184 бер 28 18:12 dbf3bc9d1a83f1230a7c6ac361b2785f655ca075-ksnakeduel_Tm67e6C.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2286 бер 28 18:09 dc7169d1c6b74c7e730cfccc622f8fafa0861b9d-discord.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  8104 бер 28 18:09 dea56864b753381987084f5e028e8b73e9722716-xonotic_256x.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  3402 бер 28 18:09 defc628690059e0b1e4082017c13270505d25cf0-icon_XdsF8vs.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4799 бер 28 18:13 e3d3d8228832228de1de31c932856a50855af24e-podpublish.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  1664 бер 28 18:09 e55e08cc0c673511e8027cf01b6078046e434b1a-icon_dark.ico.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4924 бер 28 18:13 e8647a66f31dd36c03197f7049d906f7d2ac1a4f-icon_hbijlIh.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2589 бер 28 18:09 e869627a7b90632cc1c4b25b9bab047be148bc8e-Snapcraft_256x256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4230 бер 28 18:12 e9bdadf077ea48bc123ee3272fd48428bdca3860-128-apps-kfourinline.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5217 бер 28 18:09 ee935120375b538e93f7489ed7288d1ad6375b75-inkscape.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6199 бер 28 18:09 efefb4b7836a10162c7c5b9134beac5451a5c838-tmnationsforever.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2521 бер 28 18:09 f0be78cfcfacf981acfc7ba2cbababfabd2e74ed-music_icon-24.svg.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4947 бер 28 18:09 f0fd7a34e8a0054aafb85f41457372103821e25b-gpmdp.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  4550 бер 28 18:12 f23ae18dca3cf4a51d97785fce734b24daf3cf28-duckmarines.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  5422 бер 28 18:12 f4a9ce7c5f1c1532ae61e4529cb7769fa02847cb-all-remixes-icon-512.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  2607 бер 28 18:09 f53de11b2ed4541d9b5ebddbbd696756d588cfeb-oh-my-giraffe_256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  6750 бер 28 18:13 f56a3bd07fdfc47d762f2132aa4b8d3ab0ef5692-freac-256x256.png
+-rw-rw-r-- 1 AnotherUser AnotherUser  8404 бер 28 18:09 f9ae1fb5dec311e7d0c6771c2ee10ca3f6265ad0-clementine.png
+
+/home/AnotherUser/.cache/gnome-software/odrs:
+total 656
+-rw-rw-r-- 1 AnotherUser AnotherUser 669397 бер 28 18:09 ratings.json
+
+/home/AnotherUser/.cache/gnome-software/shell-extensions:
+total 720
+-rw-rw-r-- 1 AnotherUser AnotherUser 734799 бер 28 18:09 gnome.json
+
+/home/AnotherUser/.cache/gstreamer-1.0:
+total 340
+-rw------- 1 AnotherUser AnotherUser 345143 бер 28 20:41 registry.x86_64.bin
+
+/home/AnotherUser/.cache/ibus:
+total 4
+drwxrwxr-x 2 AnotherUser AnotherUser 4096 бер 28 18:19 bus
+
+/home/AnotherUser/.cache/ibus/bus:
+total 16
+-rw-r--r-- 1 AnotherUser AnotherUser 13273 бер 28 18:19 registry
+
+/home/AnotherUser/.cache/ibus-table:
+total 0
+
+/home/AnotherUser/.cache/libgweather:
+total 0
+
+/home/AnotherUser/.cache/mozilla:
+total 4
+drwx------ 4 AnotherUser AnotherUser 4096 бер 29 17:10 firefox
+
+/home/AnotherUser/.cache/mozilla/firefox:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 pd38hyn9.default
+drwx------ 8 AnotherUser AnotherUser 4096 бер 29 17:11 s2sn77wl.default-release
+
+/home/AnotherUser/.cache/mozilla/firefox/pd38hyn9.default:
+total 0
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release:
+total 24
+drwx------ 4 AnotherUser AnotherUser 4096 бер 29 17:11 cache2
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 OfflineCache
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:11 safebrowsing
+drwx------ 3 AnotherUser AnotherUser 4096 бер 29 17:10 settings
+drwxrwxr-x 2 AnotherUser AnotherUser 4096 бер 29 17:13 startupCache
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 thumbnails
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/cache2:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 doomed
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:17 entries
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/cache2/doomed:
+total 4
+-rw------- 1 AnotherUser AnotherUser 120 бер 29 17:10 723754870
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/cache2/entries:
+total 1924
+-rw------- 1 AnotherUser AnotherUser  10387 бер 29 17:10 0318830328E6C5A25F4128E85A844818A3EF4040
+-rw------- 1 AnotherUser AnotherUser 131510 бер 29 17:10 069A4047B7FD5A154EA9BCB9523CB6438A40EB96
+-rw------- 1 AnotherUser AnotherUser   1276 бер 29 17:10 0A59F165B6EF04A6D73F15B633F534CD9811E75A
+-rw------- 1 AnotherUser AnotherUser  57530 бер 29 17:10 0AAB4F57B4AC93E8DF96AE1E8664F9A88465991A
+-rw------- 1 AnotherUser AnotherUser  18896 бер 29 17:10 0C5B2355812697BF4DDFB77A55815374B532B5CB
+-rw------- 1 AnotherUser AnotherUser  11231 бер 29 17:10 0D288E5EFB5F6BD4D2FBED99FD460472CAB057B9
+-rw------- 1 AnotherUser AnotherUser  10902 бер 29 17:10 0DDE7EBD8F3AD9D564DBF6AD91C37AB55D56D0AF
+-rw------- 1 AnotherUser AnotherUser    238 бер 29 17:10 0EDDF8C091E2FED62E44BEDDDC1723F5BF38FE4F
+-rw------- 1 AnotherUser AnotherUser   9972 бер 29 17:10 0FC25877B42B91EC00B7CCBA2ED45B52587179BC
+-rw------- 1 AnotherUser AnotherUser  10645 бер 29 17:10 1761AD362311F7EAAC34E15A930400DDFE6299E0
+-rw------- 1 AnotherUser AnotherUser  97949 бер 29 17:10 179977EC1B5CF43A769203F2E63E4D2CCB00C0BE
+-rw------- 1 AnotherUser AnotherUser  17443 бер 29 17:10 17C69B48B96D87107F5C8392B021079D07D50F99
+-rw------- 1 AnotherUser AnotherUser   1276 бер 29 17:10 1E1ECBA441E2796045D75CBB416A8149A3047336
+-rw------- 1 AnotherUser AnotherUser  10109 бер 29 17:10 254256B27E0C48CF9B80B695F0B3B8CA84610495
+-rw------- 1 AnotherUser AnotherUser   9529 бер 29 17:10 25E3F9C57E7B595E4EA0783B8863230E51F31C4E
+-rw------- 1 AnotherUser AnotherUser  46824 бер 29 17:10 3207BAF58E1E722DAD3FF59B8087D611194E2C72
+-rw------- 1 AnotherUser AnotherUser  10000 бер 29 17:10 340A10D652987DF5E54312E31F5C22F6E8DBA574
+-rw------- 1 AnotherUser AnotherUser 512805 бер 29 17:12 35F0A2FF4B4555DF80956150B324D0FA66FD56B3
+-rw------- 1 AnotherUser AnotherUser  11978 бер 29 17:10 447E62EE439AC61BDFBDB92986DBA56D2E79ADD8
+-rw------- 1 AnotherUser AnotherUser  12100 бер 29 17:10 44BA9A5AAB74A795209F8B1E91F45308B9E2D97C
+-rw------- 1 AnotherUser AnotherUser  55087 бер 29 17:12 48123D5EEB1E28203DA381DB5B232F22924A2FFF
+-rw------- 1 AnotherUser AnotherUser   9976 бер 29 17:10 4903E7ABE348ED39D98D1C844FB81A906D5ECA16
+-rw------- 1 AnotherUser AnotherUser   1276 бер 29 17:10 49F0FE0457EA9415A045596F35D4E9B99FD828DF
+-rw------- 1 AnotherUser AnotherUser  37298 бер 29 17:10 4FA5A3C5A3B5463863D916A12235FE38535BAFB2
+-rw------- 1 AnotherUser AnotherUser   8824 бер 29 17:10 66F684AF9CC570C6247262B47C769C601C2A338B
+-rw------- 1 AnotherUser AnotherUser  14191 бер 29 17:12 66FBB24C787EF71B6675C33194023E740024755B
+-rw------- 1 AnotherUser AnotherUser   9959 бер 29 17:10 6D730121FD763F5F1F5C0FA06E1E8AC73C97591D
+-rw------- 1 AnotherUser AnotherUser   9207 бер 29 17:10 78DBE55782B7B81AF853B4884323B48C34429A53
+-rw------- 1 AnotherUser AnotherUser   1276 бер 29 17:17 7CC210F3DE17CC7375E38FBCB75625DE7DCCC331
+-rw------- 1 AnotherUser AnotherUser  12977 бер 29 17:10 83ADE40216D6A370A78A28ECA2EB0805FBD73379
+-rw------- 1 AnotherUser AnotherUser   1160 бер 29 17:11 871DE84C77635E851B837F71609DF89EEEAB585C
+-rw------- 1 AnotherUser AnotherUser   8550 бер 29 17:10 89DBE1DF558BB8439E2062ECC3272086F2E3FF1F
+-rw------- 1 AnotherUser AnotherUser   9656 бер 29 17:10 97E8D217D59733C5DAC8BF6D74564B40D930A09A
+-rw------- 1 AnotherUser AnotherUser  25635 бер 29 17:10 996D20D018E4F7762222CD38EB107482289071F3
+-rw------- 1 AnotherUser AnotherUser  25863 бер 29 17:10 9DF825CC78A660D81D571A4A46F060676D7CF4F3
+-rw------- 1 AnotherUser AnotherUser   1276 бер 29 17:10 A58C553A648150D30FC66D7574BB8ABB2FB33F6A
+-rw------- 1 AnotherUser AnotherUser  11210 бер 29 17:12 A62DE0849776D2F71485737EFCC2445AF8292CC4
+-rw------- 1 AnotherUser AnotherUser   9655 бер 29 17:10 A9CD9A35F7588F07426AF0917E6F3EDE3BDBCF6B
+-rw------- 1 AnotherUser AnotherUser   9841 бер 29 17:12 ADB374FF88CC300FBB6D7C83DFA6F5024A072761
+-rw------- 1 AnotherUser AnotherUser   1276 бер 29 17:10 B491820DFB4B955F48159C47A0BCBFB68924EBD2
+-rw------- 1 AnotherUser AnotherUser   9821 бер 29 17:10 B555235EB5230B93242A83F624CFE5AF42CB966B
+-rw------- 1 AnotherUser AnotherUser   9625 бер 29 17:10 B6BAC957D639A5D3ADE0DD634B4EF2F9A9F3F0A6
+-rw------- 1 AnotherUser AnotherUser   9453 бер 29 17:10 B6F8D2A797B257A0FA38E0B262ECF974330E267C
+-rw------- 1 AnotherUser AnotherUser 105058 бер 29 17:10 B9667D755101C1D21E786F253C654BD086964020
+-rw------- 1 AnotherUser AnotherUser  11862 бер 29 17:10 BAEE5929C302B628351F8A770CA24F6C3585A52B
+-rw------- 1 AnotherUser AnotherUser  14189 бер 29 17:12 BBBEE6CCDA69DDE30D5EE41BFCB04F5BFA61BEAE
+-rw------- 1 AnotherUser AnotherUser  13411 бер 29 17:12 BC633E159A796AD931EF92EB771E4BF67A4C0533
+-rw------- 1 AnotherUser AnotherUser  16926 бер 29 17:10 BE0CCFDEED023C83BCD6BAB4E7FA39C986B3EA5A
+-rw------- 1 AnotherUser AnotherUser  22455 бер 29 17:12 C28EFDAF62FDBE43D37808C082A6ED569B1C42D4
+-rw------- 1 AnotherUser AnotherUser   9340 бер 29 17:10 C3D12E2B603C194F2FE1E0DB12DB2A2BB4C4FE2A
+-rw------- 1 AnotherUser AnotherUser  12986 бер 29 17:10 C826F47B16117BA28458A47C4D3BA037A530889A
+-rw------- 1 AnotherUser AnotherUser  10254 бер 29 17:10 CABF280BBB1FB7DE80A6837C03C886041B5DDF79
+-rw------- 1 AnotherUser AnotherUser   9968 бер 29 17:10 CC272A84C437C06018182F241F266FFC52770F69
+-rw------- 1 AnotherUser AnotherUser   9830 бер 29 17:12 D00A688072D5E651DFCBF1F615D0FF8CC68B8989
+-rw------- 1 AnotherUser AnotherUser   1351 бер 29 17:10 D172815C768C1A1D486790E093EC132B3A860C69
+-rw------- 1 AnotherUser AnotherUser  14155 бер 29 17:12 D3A97D4BF577027FCA9D0815DCE7CAC25D11926B
+-rw------- 1 AnotherUser AnotherUser 105172 бер 29 17:10 D68CAF7DF2821B6FF8FA7C896445E3FEDF710B49
+-rw------- 1 AnotherUser AnotherUser  11975 бер 29 17:10 DADD4F9B9A5498815F97C8458A170D119989A542
+-rw------- 1 AnotherUser AnotherUser  13451 бер 29 17:17 DF987FD83BE40552D9A5BEB5CAE717829C155945
+-rw------- 1 AnotherUser AnotherUser 104158 бер 29 17:10 E910D1FCE8BF27F5536B88567A4DC32624377CC3
+-rw------- 1 AnotherUser AnotherUser  11793 бер 29 17:10 EF24CA4A4C9F65F851ACC2CDBDEFF0B7EB1A8BD0
+-rw------- 1 AnotherUser AnotherUser   1276 бер 29 17:10 F2161C0910ED1EC7A31752D7FE48C6239C556111
+-rw------- 1 AnotherUser AnotherUser   9841 бер 29 17:10 F8B51D2EC10AE9A943F8F24B1B1561CF237EA4EA
+-rw------- 1 AnotherUser AnotherUser  10973 бер 29 17:10 F8CBD54DDA10F4286A41EC6A537240712D6C2308
+-rw------- 1 AnotherUser AnotherUser  10599 бер 29 17:10 F8E127080251238867CB977D702209BC567B58B1
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/OfflineCache:
+total 256
+-rw-r--r-- 1 AnotherUser AnotherUser 262144 бер 29 17:10 index.sqlite
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/safebrowsing:
+total 1968
+-rw-rw-r-- 1 AnotherUser AnotherUser    1935 бер 29 17:11 ads-track-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser   53285 бер 29 17:11 ads-track-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     236 бер 29 17:11 allow-flashallow-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser      69 бер 29 17:11 allow-flashallow-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     553 бер 29 17:11 analytics-track-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser    9829 бер 29 17:11 analytics-track-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     315 бер 29 17:11 base-cryptomining-track-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser    2309 бер 29 17:11 base-cryptomining-track-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     351 бер 29 17:11 base-fingerprinting-track-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser    3461 бер 29 17:11 base-fingerprinting-track-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     451 бер 29 17:11 block-flash-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser    6661 бер 29 17:11 block-flash-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser    2576 бер 29 17:11 block-flashsubdoc-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser   73413 бер 29 17:11 block-flashsubdoc-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     762 бер 29 17:11 content-track-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser   16421 бер 29 17:11 content-track-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     236 бер 29 17:11 except-flashallow-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser      69 бер 29 17:11 except-flashallow-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     240 бер 29 17:11 except-flash-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser     101 бер 29 17:11 except-flash-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     244 бер 29 17:11 except-flashsubdoc-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser     133 бер 29 17:11 except-flashsubdoc-digest256.vlpset
+drwxr-xr-x 2 AnotherUser AnotherUser    4096 бер 29 17:11 google4
+-rw-rw-r-- 1 AnotherUser AnotherUser   45462 бер 29 17:11 google-trackwhite-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser 1441669 бер 29 17:11 google-trackwhite-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     338 бер 29 17:11 mozplugin-block-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser    3045 бер 29 17:11 mozplugin-block-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser    7450 бер 29 17:11 mozstd-trackwhite-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser  228837 бер 29 17:11 mozstd-trackwhite-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     309 бер 29 17:11 social-track-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser    2117 бер 29 17:11 social-track-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     255 бер 29 17:11 social-tracking-protection-facebook-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser     485 бер 29 17:11 social-tracking-protection-facebook-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     248 бер 29 17:11 social-tracking-protection-linkedin-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser     165 бер 29 17:11 social-tracking-protection-linkedin-digest256.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser     249 бер 29 17:11 social-tracking-protection-twitter-digest256.sbstore
+-rw-rw-r-- 1 AnotherUser AnotherUser     293 бер 29 17:11 social-tracking-protection-twitter-digest256.vlpset
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/safebrowsing/google4:
+total 6948
+-rw-rw-r-- 1 AnotherUser AnotherUser      67 бер 29 17:11 goog-badbinurl-proto.metadata
+-rw-rw-r-- 1 AnotherUser AnotherUser  319152 бер 29 17:11 goog-badbinurl-proto.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser      65 бер 29 17:11 goog-downloadwhite-proto.metadata
+-rw-rw-r-- 1 AnotherUser AnotherUser   32933 бер 29 17:11 goog-downloadwhite-proto.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser      67 бер 29 17:11 goog-malware-proto.metadata
+-rw-rw-r-- 1 AnotherUser AnotherUser   88784 бер 29 17:11 goog-malware-proto.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser      67 бер 29 17:11 goog-phish-proto.metadata
+-rw-rw-r-- 1 AnotherUser AnotherUser 6568034 бер 29 17:11 goog-phish-proto.vlpset
+-rw-rw-r-- 1 AnotherUser AnotherUser      67 бер 29 17:11 goog-unwanted-proto.metadata
+-rw-rw-r-- 1 AnotherUser AnotherUser   75792 бер 29 17:11 goog-unwanted-proto.vlpset
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/settings:
+total 4
+drwx------ 3 AnotherUser AnotherUser 4096 бер 29 17:10 main
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/settings/main:
+total 4
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 ms-language-packs
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/settings/main/ms-language-packs:
+total 12
+-rw------- 1 AnotherUser AnotherUser 10005 бер 29 17:10 asrouter.ftl
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/startupCache:
+total 12748
+-rw-r--r-- 1 AnotherUser AnotherUser 7395591 бер 29 17:11 scriptCache.bin
+-rw-r--r-- 1 AnotherUser AnotherUser  710416 бер 29 17:11 scriptCache-child.bin
+-rw-r--r-- 1 AnotherUser AnotherUser 4836493 бер 29 17:13 startupCache.8.little
+-rw-r--r-- 1 AnotherUser AnotherUser    2834 бер 29 17:11 urlCache.bin
+-rw------- 1 AnotherUser AnotherUser  100244 бер 29 17:10 webext.sc.lz4
+
+/home/AnotherUser/.cache/mozilla/firefox/s2sn77wl.default-release/thumbnails:
+total 12
+-rw------- 1 AnotherUser AnotherUser 9864 бер 29 17:10 7c27e0a3e1ba29183af76ea17d293660.png
+
+/home/AnotherUser/.cache/thunderbird:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:41 gy85k4uv.default
+drwx------ 4 AnotherUser AnotherUser 4096 бер 29 17:41 ipedfwh4.default-release
+
+/home/AnotherUser/.cache/thunderbird/gy85k4uv.default:
+total 0
+
+/home/AnotherUser/.cache/thunderbird/ipedfwh4.default-release:
+total 16
+drwx------ 4 AnotherUser AnotherUser 4096 бер 29 17:41 cache2
+-rw------- 1 AnotherUser AnotherUser   30 бер 29 17:41 ShutdownDuration.json
+-rw------- 1 AnotherUser AnotherUser   58 бер 29 17:41 ShutdownDuration.json.tmp
+drwxrwxr-x 2 AnotherUser AnotherUser 4096 бер 29 17:41 startupCache
+
+/home/AnotherUser/.cache/thunderbird/ipedfwh4.default-release/cache2:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:41 doomed
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:41 entries
+
+/home/AnotherUser/.cache/thunderbird/ipedfwh4.default-release/cache2/doomed:
+total 0
+
+/home/AnotherUser/.cache/thunderbird/ipedfwh4.default-release/cache2/entries:
+total 0
+
+/home/AnotherUser/.cache/thunderbird/ipedfwh4.default-release/startupCache:
+total 4216
+-rw-rw-r-- 1 AnotherUser AnotherUser 4239259 бер 29 17:41 startupCache.8.little
+-rw------- 1 AnotherUser AnotherUser   75116 бер 29 17:41 webext.sc.lz4
+
+/home/AnotherUser/.cache/ubuntu-report:
+total 4
+-rw-rw-r-- 1 AnotherUser AnotherUser 16 бер 28 18:11 ubuntu.18.04
+
+/home/AnotherUser/.cache/update-manager-core:
+total 8
+-rw-rw-r-- 1 AnotherUser AnotherUser 4386 бер 28 18:09 meta-release-lts
+
+/home/AnotherUser/.cache/wallpaper:
+total 160
+-rw-rw-r-- 1 AnotherUser AnotherUser 161276 тра  2 22:45 0_5_1217_573_792beab7550410d531e55f95b449f135
+
+/home/AnotherUser/.config:
+total 48
+drwx------ 2 AnotherUser AnotherUser 4096 тра  3 00:02 dconf
+drwx------ 3 AnotherUser AnotherUser 4096 бер 28 18:07 evolution
+-rw-rw-r-- 1 AnotherUser AnotherUser    3 бер 28 18:11 gnome-initial-setup-done
+drwx------ 3 AnotherUser AnotherUser 4096 бер 28 18:07 gnome-session
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 goa-1.0
+drwx------ 2 AnotherUser AnotherUser 4096 тра  2 22:48 gtk-3.0
+drwx------ 3 AnotherUser AnotherUser 4096 бер 28 18:07 ibus
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  3 01:50 nautilus
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:07 pulse
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:09 update-notifier
+-rw------- 1 AnotherUser AnotherUser  633 бер 28 18:07 user-dirs.dirs
+-rw-rw-r-- 1 AnotherUser AnotherUser    5 бер 28 18:07 user-dirs.locale
+
+/home/AnotherUser/.config/dconf:
+total 8
+-rw-r--r-- 1 AnotherUser AnotherUser 6064 тра  3 00:02 user
+
+/home/AnotherUser/.config/evolution:
+total 4
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:07 sources
+
+/home/AnotherUser/.config/evolution/sources:
+total 4
+-rw-r--r-- 1 AnotherUser AnotherUser 993 бер 28 18:07 system-proxy.source
+
+/home/AnotherUser/.config/gnome-session:
+total 4
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:07 saved-session
+
+/home/AnotherUser/.config/gnome-session/saved-session:
+total 0
+
+/home/AnotherUser/.config/goa-1.0:
+total 0
+
+/home/AnotherUser/.config/gtk-3.0:
+total 4
+-rw-rw-r-- 1 AnotherUser AnotherUser 157 тра  2 22:48 bookmarks
+
+/home/AnotherUser/.config/ibus:
+total 4
+drwx------ 2 AnotherUser AnotherUser 4096 тра  2 22:48 bus
+
+/home/AnotherUser/.config/ibus/bus:
+total 8
+-rw-rw-r-- 1 AnotherUser AnotherUser 168 тра  2 22:48 b7dcb1a30b9840e994d0aa8f7a24ec4c-unix-0
+-rw-rw-r-- 1 AnotherUser AnotherUser 168 бер 28 20:37 b7dcb1a30b9840e994d0aa8f7a24ec4c-unix-1
+
+/home/AnotherUser/.config/nautilus:
+total 4
+-rw-rw-r-- 1 AnotherUser AnotherUser 446 тра  3 01:50 desktop-metadata
+
+/home/AnotherUser/.config/pulse:
+total 80
+-rw-r--r-- 1 AnotherUser AnotherUser 45056 бер 28 18:07 b7dcb1a30b9840e994d0aa8f7a24ec4c-card-database.tdb
+-rw-r--r-- 1 AnotherUser AnotherUser     1 тра  2 22:48 b7dcb1a30b9840e994d0aa8f7a24ec4c-default-sink
+-rw-r--r-- 1 AnotherUser AnotherUser     1 тра  2 22:48 b7dcb1a30b9840e994d0aa8f7a24ec4c-default-source
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 бер 28 18:07 b7dcb1a30b9840e994d0aa8f7a24ec4c-device-volumes.tdb
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 бер 28 18:15 b7dcb1a30b9840e994d0aa8f7a24ec4c-stream-volumes.tdb
+-rw------- 1 AnotherUser AnotherUser   256 бер 28 18:07 cookie
+
+/home/AnotherUser/.config/update-notifier:
+total 0
+
+/home/AnotherUser/Desktop:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 folder
+
+/home/AnotherUser/Desktop/folder:
+total 8
+-rw-r--r-- 1 AnotherUser AnotherUser 22 тра  2 22:26 remote_file
+-rw-r--r-- 1 AnotherUser AnotherUser 10 тра  2 22:26 test_file
+
+/home/AnotherUser/Documents:
+total 0
+
+/home/AnotherUser/Downloads:
+total 0
+
+/home/AnotherUser/extracted:
+total 4
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 тра  2 22:26 test
+
+/home/AnotherUser/extracted/test:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 test2
+-rw-r--r-- 1 AnotherUser AnotherUser    0 тра  2 22:26 test2.txt
+
+/home/AnotherUser/extracted/test/test2:
+total 0
+-rw-r--r-- 1 AnotherUser AnotherUser 0 тра  2 22:26 test2.txt
+
+/home/AnotherUser/extracted2:
+total 4
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 тра  2 22:26 test
+
+/home/AnotherUser/extracted2/test:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 test2
+-rw-r--r-- 1 AnotherUser AnotherUser    0 тра  2 22:26 test2.txt
+
+/home/AnotherUser/extracted2/test/test2:
+total 0
+-rw-r--r-- 1 AnotherUser AnotherUser 0 тра  2 22:26 test2.txt
+
+/home/AnotherUser/extracted3:
+total 4
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 тра  2 22:26 test
+
+/home/AnotherUser/extracted3/test:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 test2
+-rw-r--r-- 1 AnotherUser AnotherUser    0 тра  2 22:26 test2.txt
+
+/home/AnotherUser/extracted3/test/test2:
+total 0
+-rw-r--r-- 1 AnotherUser AnotherUser 0 тра  2 22:26 test2.txt
+
+/home/AnotherUser/.gnupg:
+total 4
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:07 private-keys-v1.d
+
+/home/AnotherUser/.gnupg/private-keys-v1.d:
+total 0
+
+/home/AnotherUser/.local:
+total 4
+drwx------ 16 AnotherUser AnotherUser 4096 тра  2 22:14 share
+
+/home/AnotherUser/.local/share:
+total 64
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:09 app-info
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:08 applications
+drwx------ 7 AnotherUser AnotherUser 4096 бер 28 18:07 evolution
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:08 flatpak
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:08 gnome-settings-daemon
+drwx------ 2 AnotherUser AnotherUser 4096 тра  3 01:53 gnome-shell
+drwx------ 2 AnotherUser AnotherUser 4096 тра  2 23:38 gvfs-metadata
+drwxrwxr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 ibus-table
+drwxrwxr-x 2 AnotherUser AnotherUser 4096 бер 28 18:08 icc
+drwx------ 2 AnotherUser AnotherUser 4096 тра  2 22:56 keyrings
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 16:37 nano
+drwxrwxr-x 3 AnotherUser AnotherUser 4096 бер 28 18:08 nautilus
+-rw------- 1 AnotherUser AnotherUser  218 тра  2 22:14 recently-used.xbel
+-rw-rw-r-- 1 AnotherUser AnotherUser  100 бер 28 18:07 session_migration-ubuntu
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:08 sounds
+drwx------ 2 AnotherUser AnotherUser 4096 тра  2 22:48 xorg
+
+/home/AnotherUser/.local/share/app-info:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:09 xmls
+
+/home/AnotherUser/.local/share/app-info/xmls:
+total 1128
+-rw-rw-r-- 1 AnotherUser AnotherUser 1151750 бер 28 18:09 extensions-web.xml
+
+/home/AnotherUser/.local/share/applications:
+total 0
+
+/home/AnotherUser/.local/share/evolution:
+total 20
+drwxr-xr-x 4 AnotherUser AnotherUser 4096 бер 28 18:08 addressbook
+drwxr-xr-x 4 AnotherUser AnotherUser 4096 бер 28 18:08 calendar
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 mail
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 memos
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 28 18:07 tasks
+
+/home/AnotherUser/.local/share/evolution/addressbook:
+total 8
+drwx------ 3 AnotherUser AnotherUser 4096 тра  2 22:48 system
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.local/share/evolution/addressbook/system:
+total 88
+-rw-r--r-- 1 AnotherUser AnotherUser 86016 тра  2 22:48 contacts.db
+drwx------ 2 AnotherUser AnotherUser  4096 бер 28 18:08 photos
+
+/home/AnotherUser/.local/share/evolution/addressbook/system/photos:
+total 0
+
+/home/AnotherUser/.local/share/evolution/addressbook/trash:
+total 0
+
+/home/AnotherUser/.local/share/evolution/calendar:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:08 system
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.local/share/evolution/calendar/system:
+total 4
+-rw-r--r-- 1 AnotherUser AnotherUser 173 бер 28 18:08 calendar.ics
+
+/home/AnotherUser/.local/share/evolution/calendar/trash:
+total 0
+
+/home/AnotherUser/.local/share/evolution/mail:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.local/share/evolution/mail/trash:
+total 0
+
+/home/AnotherUser/.local/share/evolution/memos:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.local/share/evolution/memos/trash:
+total 0
+
+/home/AnotherUser/.local/share/evolution/tasks:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:07 trash
+
+/home/AnotherUser/.local/share/evolution/tasks/trash:
+total 0
+
+/home/AnotherUser/.local/share/flatpak:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 28 18:08 db
+
+/home/AnotherUser/.local/share/flatpak/db:
+total 0
+
+/home/AnotherUser/.local/share/gnome-settings-daemon:
+total 0
+-rw-rw-r-- 1 AnotherUser AnotherUser 0 бер 28 18:08 input-sources-converted
+
+/home/AnotherUser/.local/share/gnome-shell:
+total 8
+-rw-rw-r-- 1 AnotherUser AnotherUser 424 тра  3 01:53 application_state
+-rw-rw-r-- 1 AnotherUser AnotherUser 583 тра  2 22:23 notifications
+
+/home/AnotherUser/.local/share/gvfs-metadata:
+total 72
+-rw------- 1 AnotherUser AnotherUser   252 тра  2 22:49 home
+-rw-r--r-- 1 AnotherUser AnotherUser 32768 тра  2 22:49 home-d5f25808.log
+-rw------- 1 AnotherUser AnotherUser    64 тра  2 23:38 root
+-rw-r--r-- 1 AnotherUser AnotherUser 32768 тра  2 23:38 root-559e73ca.log
+
+/home/AnotherUser/.local/share/ibus-table:
+total 0
+
+/home/AnotherUser/.local/share/icc:
+total 0
+
+/home/AnotherUser/.local/share/keyrings:
+total 8
+-rw------- 1 AnotherUser AnotherUser 105 бер 28 18:07 login.keyring
+-rw------- 1 AnotherUser AnotherUser 207 бер 28 18:07 user.keystore
+
+/home/AnotherUser/.local/share/nano:
+total 0
+
+/home/AnotherUser/.local/share/nautilus:
+total 4
+drwx------ 2 AnotherUser AnotherUser 4096 бер 28 18:08 scripts
+
+/home/AnotherUser/.local/share/nautilus/scripts:
+total 0
+
+/home/AnotherUser/.local/share/sounds:
+total 0
+
+/home/AnotherUser/.local/share/xorg:
+total 84
+-rw-r--r-- 1 AnotherUser AnotherUser 24711 тра  2 22:48 Xorg.0.log
+-rw-r--r-- 1 AnotherUser AnotherUser 27432 тра  2 22:47 Xorg.0.log.old
+-rw-r--r-- 1 AnotherUser AnotherUser 26786 бер 28 20:53 Xorg.1.log
+
+/home/AnotherUser/.mozilla:
+total 12
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 extensions
+drwx------ 6 AnotherUser AnotherUser 4096 бер 29 17:10 firefox
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 systemextensionsdev
+
+/home/AnotherUser/.mozilla/extensions:
+total 0
+
+/home/AnotherUser/.mozilla/firefox:
+total 24
+drwx------  3 AnotherUser AnotherUser 4096 бер 29 17:10 Crash Reports
+-rw-rw-r--  1 AnotherUser AnotherUser   62 бер 29 17:10 installs.ini
+drwx------  2 AnotherUser AnotherUser 4096 бер 29 17:10 pd38hyn9.default
+drwx------  2 AnotherUser AnotherUser 4096 бер 29 17:10 Pending Pings
+-rw-rw-r--  1 AnotherUser AnotherUser  259 бер 29 17:10 profiles.ini
+drwx------ 10 AnotherUser AnotherUser 4096 бер 29 17:18 s2sn77wl.default-release
+
+/home/AnotherUser/.mozilla/firefox/Crash Reports:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 events
+-rw------- 1 AnotherUser AnotherUser   10 бер 29 17:10 InstallTime20200309095159
+
+/home/AnotherUser/.mozilla/firefox/Crash Reports/events:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/pd38hyn9.default:
+total 4
+-rwx------ 1 AnotherUser AnotherUser 47 бер 29 17:10 times.json
+
+/home/AnotherUser/.mozilla/firefox/Pending Pings:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release:
+total 15888
+-rw------- 1 AnotherUser AnotherUser    1931 бер 29 17:17 addons.json
+-rw------- 1 AnotherUser AnotherUser    3030 бер 29 17:10 addonStartup.json.lz4
+drwx------ 2 AnotherUser AnotherUser    4096 бер 29 17:16 bookmarkbackups
+-rw------- 1 AnotherUser AnotherUser     216 бер 29 17:12 broadcast-listeners.json
+-rw------- 1 AnotherUser AnotherUser  229376 бер 29 17:17 cert9.db
+-rw------- 1 AnotherUser AnotherUser     160 бер 29 17:10 compatibility.ini
+-rw------- 1 AnotherUser AnotherUser     939 бер 29 17:10 containers.json
+-rw-r--r-- 1 AnotherUser AnotherUser  229376 бер 29 17:10 content-prefs.sqlite
+-rw-r--r-- 1 AnotherUser AnotherUser   98304 бер 29 17:10 cookies.sqlite
+drwx------ 3 AnotherUser AnotherUser    4096 бер 29 17:11 crashes
+drwx------ 2 AnotherUser AnotherUser    4096 бер 29 17:16 datareporting
+-rw------- 1 AnotherUser AnotherUser    1111 бер 29 17:10 extension-preferences.json
+drwx------ 2 AnotherUser AnotherUser    4096 бер 29 17:10 extensions
+-rw------- 1 AnotherUser AnotherUser   44575 бер 29 17:12 extensions.json
+-rw-r--r-- 1 AnotherUser AnotherUser 5242880 бер 29 17:10 favicons.sqlite
+-rw-r--r-- 1 AnotherUser AnotherUser 1738008 бер 29 17:10 favicons.sqlite-wal
+-rw-r--r-- 1 AnotherUser AnotherUser  196608 бер 29 17:15 formhistory.sqlite
+drwxr-xr-x 3 AnotherUser AnotherUser    4096 бер 29 17:12 gmp-gmpopenh264
+-rw------- 1 AnotherUser AnotherUser     544 бер 29 17:10 handlers.json
+-rw------- 1 AnotherUser AnotherUser  294912 бер 29 17:10 key4.db
+drwx------ 2 AnotherUser AnotherUser    4096 бер 29 17:10 minidumps
+-rw-rw-r-- 1 AnotherUser AnotherUser       0 бер 29 17:10 .parentlock
+-rw-r--r-- 1 AnotherUser AnotherUser   98304 бер 29 17:10 permissions.sqlite
+-rw------- 1 AnotherUser AnotherUser     481 бер 29 17:10 pkcs11.txt
+-rw-r--r-- 1 AnotherUser AnotherUser 5242880 бер 29 17:10 places.sqlite
+-rw-r--r-- 1 AnotherUser AnotherUser 2459432 бер 29 17:15 places.sqlite-wal
+-rw------- 1 AnotherUser AnotherUser     172 бер 29 17:10 pluginreg.dat
+-rw------- 1 AnotherUser AnotherUser    8642 бер 29 17:18 prefs.js
+-rw-r--r-- 1 AnotherUser AnotherUser   65536 бер 29 17:10 protections.sqlite
+-rw-rw-r-- 1 AnotherUser AnotherUser   62738 бер 29 17:12 revocations.txt
+-rw------- 1 AnotherUser AnotherUser    9696 бер 29 17:10 search.json.mozlz4
+-rw------- 1 AnotherUser AnotherUser     122 бер 29 17:18 sessionCheckpoints.json
+drwx------ 2 AnotherUser AnotherUser    4096 бер 29 17:10 sessionstore-backups
+-rw------- 1 AnotherUser AnotherUser      18 бер 29 17:10 shield-preference-experiments.json
+-rw-rw-r-- 1 AnotherUser AnotherUser     590 бер 29 17:15 SiteSecurityServiceState.txt
+drwxr-xr-x 5 AnotherUser AnotherUser    4096 бер 29 17:10 storage
+-rw-r--r-- 1 AnotherUser AnotherUser    4096 бер 29 17:10 storage.sqlite
+-rw------- 1 AnotherUser AnotherUser      50 бер 29 17:10 times.json
+-rw-r--r-- 1 AnotherUser AnotherUser   32768 бер 29 17:10 webappsstore.sqlite
+-rw-r--r-- 1 AnotherUser AnotherUser   98408 бер 29 17:10 webappsstore.sqlite-wal
+-rw------- 1 AnotherUser AnotherUser      83 бер 29 17:11 xulstore.json
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/bookmarkbackups:
+total 4
+-rw------- 1 AnotherUser AnotherUser 1372 бер 29 17:16 bookmarks-2020-03-29_16_bQY8LHhbDALKcf72PXlhWQ==.jsonlz4
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/crashes:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:10 events
+-rw------- 1 AnotherUser AnotherUser   66 бер 29 17:11 store.json.mozlz4
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/crashes/events:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/datareporting:
+total 48
+-rw------- 1 AnotherUser AnotherUser 38730 бер 29 17:16 aborted-session-ping
+-rw------- 1 AnotherUser AnotherUser   162 бер 29 17:11 session-state.json
+-rw------- 1 AnotherUser AnotherUser    51 бер 29 17:10 state.json
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/extensions:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/gmp-gmpopenh264:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 29 17:12 1.8.1.1
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/gmp-gmpopenh264/1.8.1.1:
+total 1356
+-rwx------ 1 AnotherUser AnotherUser     116 бер 29 17:12 gmpopenh264.info
+-rwx------ 1 AnotherUser AnotherUser 1381690 бер 29 17:12 libgmpopenh264.so
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/minidumps:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/sessionstore-backups:
+total 8
+-rw------- 1 AnotherUser AnotherUser 4202 бер 29 17:10 recovery.jsonlz4
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage:
+total 12
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:10 default
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:10 permanent
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 бер 29 17:10 temporary
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/default:
+total 4
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:10 moz-extension+++7c8be742-4675-4270-9060-ce4de8874977^userContextId=4294967295
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/default/moz-extension+++7c8be742-4675-4270-9060-ce4de8874977^userContextId=4294967295:
+total 8
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:10 idb
+-rw-rw-r-- 1 AnotherUser AnotherUser  193 бер 29 17:18 .metadata-v2
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/default/moz-extension+++7c8be742-4675-4270-9060-ce4de8874977^userContextId=4294967295/idb:
+total 48
+drwxr-xr-x 2 AnotherUser AnotherUser  4096 бер 29 17:10 3647222921wleabcEoxlt-eengsairo.files
+-rw-r--r-- 1 AnotherUser AnotherUser 49152 бер 29 17:10 3647222921wleabcEoxlt-eengsairo.sqlite
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/default/moz-extension+++7c8be742-4675-4270-9060-ce4de8874977^userContextId=4294967295/idb/3647222921wleabcEoxlt-eengsairo.files:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/permanent:
+total 4
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:10 chrome
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/permanent/chrome:
+total 8
+drwxr-xr-x 6 AnotherUser AnotherUser 4096 бер 29 17:18 idb
+-rw-rw-r-- 1 AnotherUser AnotherUser   42 бер 29 17:10 .metadata-v2
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/permanent/chrome/idb:
+total 5532
+drwxr-xr-x 2 AnotherUser AnotherUser    4096 бер 29 17:10 1657114595AmcateirvtiSty.files
+-rw-r--r-- 1 AnotherUser AnotherUser   81920 бер 29 17:10 1657114595AmcateirvtiSty.sqlite
+-rw-r--r-- 1 AnotherUser AnotherUser       0 бер 29 17:18 1657114595AmcateirvtiSty.sqlite-wal
+drwxr-xr-x 2 AnotherUser AnotherUser    4096 бер 29 17:10 2918063365piupsah.files
+-rw-r--r-- 1 AnotherUser AnotherUser   49152 бер 29 17:10 2918063365piupsah.sqlite
+drwxr-xr-x 2 AnotherUser AnotherUser    4096 бер 29 17:10 3561288849sdhlie.files
+-rw-r--r-- 1 AnotherUser AnotherUser   49152 бер 29 17:10 3561288849sdhlie.sqlite
+drwxr-xr-x 2 AnotherUser AnotherUser    4096 бер 29 17:10 3870112724rsegmnoittet-es.files
+-rw-r--r-- 1 AnotherUser AnotherUser 5464064 бер 29 17:12 3870112724rsegmnoittet-es.sqlite
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.files:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/permanent/chrome/idb/2918063365piupsah.files:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/permanent/chrome/idb/3561288849sdhlie.files:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files:
+total 0
+
+/home/AnotherUser/.mozilla/firefox/s2sn77wl.default-release/storage/temporary:
+total 0
+
+/home/AnotherUser/.mozilla/systemextensionsdev:
+total 0
+
+/home/AnotherUser/Music:
+total 0
+
+/home/AnotherUser/Pictures:
+total 0
+
+/home/AnotherUser/Public:
+total 0
+
+/home/AnotherUser/share:
+total 0
+
+/home/AnotherUser/snap:
+total 4
+drwxr-xr-x 5 AnotherUser AnotherUser 4096 тра  2 22:26 microk8s
+
+/home/AnotherUser/snap/microk8s:
+total 12
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 тра  2 22:26 1341
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 тра  2 22:26 1378
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 common
+lrwxrwxrwx 1 AnotherUser AnotherUser    4 тра  2 22:26 current -> 1378
+
+/home/AnotherUser/snap/microk8s/1341:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 tmp
+
+/home/AnotherUser/snap/microk8s/1341/tmp:
+total 0
+
+/home/AnotherUser/snap/microk8s/1378:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 tmp
+
+/home/AnotherUser/snap/microk8s/1378/tmp:
+total 0
+
+/home/AnotherUser/snap/microk8s/common:
+total 0
+
+/home/AnotherUser/.ssh:
+total 4
+-rw-r--r-- 1 AnotherUser AnotherUser 222 бер 29 16:53 known_hosts
+
+/home/AnotherUser/Templates:
+total 0
+
+/home/AnotherUser/.thunderbird:
+total 24
+drwx------ 3 AnotherUser AnotherUser 4096 бер 29 17:41 Crash Reports
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:41 gy85k4uv.default
+-rw-rw-r-- 1 AnotherUser AnotherUser   62 бер 29 17:41 installs.ini
+drwx------ 6 AnotherUser AnotherUser 4096 бер 29 17:41 ipedfwh4.default-release
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:41 Pending Pings
+-rw-rw-r-- 1 AnotherUser AnotherUser  259 бер 29 17:41 profiles.ini
+
+/home/AnotherUser/.thunderbird/Crash Reports:
+total 8
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:41 events
+-rw------- 1 AnotherUser AnotherUser   10 бер 29 17:41 InstallTime20200110142707
+
+/home/AnotherUser/.thunderbird/Crash Reports/events:
+total 0
+
+/home/AnotherUser/.thunderbird/gy85k4uv.default:
+total 4
+-rwx------ 1 AnotherUser AnotherUser 47 бер 29 17:41 times.json
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release:
+total 2692
+-rw-rw-r-- 1 AnotherUser AnotherUser    1383 бер 29 17:41 abook.mab
+-rw------- 1 AnotherUser AnotherUser      45 бер 29 17:41 addons.json
+-rw------- 1 AnotherUser AnotherUser    1966 бер 29 17:41 addonStartup.json.lz4
+-rw-rw-r-- 1 AnotherUser AnotherUser       0 бер 29 17:41 AlternateServices.txt
+-rw-r--r-- 1 AnotherUser AnotherUser  524288 бер 29 17:41 blist.sqlite
+-rw------- 1 AnotherUser AnotherUser  229376 бер 29 17:41 cert9.db
+-rw------- 1 AnotherUser AnotherUser     162 бер 29 17:41 compatibility.ini
+-rw-r--r-- 1 AnotherUser AnotherUser  131072 бер 29 17:41 cookies.sqlite
+drwx------ 3 AnotherUser AnotherUser    4096 бер 29 17:41 crashes
+-rw------- 1 AnotherUser AnotherUser      23 бер 29 17:41 directoryTree.json
+-rw------- 1 AnotherUser AnotherUser     762 бер 29 17:41 extension-preferences.json
+drwx------ 2 AnotherUser AnotherUser    4096 бер 29 17:41 extensions
+-rw------- 1 AnotherUser AnotherUser   41622 бер 29 17:41 extensions.json
+-rw------- 1 AnotherUser AnotherUser       2 бер 29 17:41 folderTree.json
+-rw-r--r-- 1 AnotherUser AnotherUser 1245184 бер 29 17:41 global-messages-db.sqlite
+-rw-rw-r-- 1 AnotherUser AnotherUser    1383 бер 29 17:41 history.mab
+-rw------- 1 AnotherUser AnotherUser  294912 бер 29 17:41 key4.db
+-rw-r--r-- 1 AnotherUser AnotherUser     482 бер 29 17:41 mailViews.dat
+drwx------ 2 AnotherUser AnotherUser    4096 бер 29 17:41 minidumps
+-rw-rw-r-- 1 AnotherUser AnotherUser       0 бер 29 17:41 .parentlock
+-rw-r--r-- 1 AnotherUser AnotherUser   98304 бер 29 17:41 permissions.sqlite
+-rw------- 1 AnotherUser AnotherUser     477 бер 29 17:41 pkcs11.txt
+-rw------- 1 AnotherUser AnotherUser    2982 бер 29 17:41 prefs.js
+-rw------- 1 AnotherUser AnotherUser    1838 бер 29 17:41 search.json.mozlz4
+-rw-rw-r-- 1 AnotherUser AnotherUser       0 бер 29 17:41 SecurityPreloadState.txt
+-rw------- 1 AnotherUser AnotherUser     204 бер 29 17:41 sessionCheckpoints.json
+-rw-rw-r-- 1 AnotherUser AnotherUser       0 бер 29 17:41 SiteSecurityServiceState.txt
+drwxr-xr-x 3 AnotherUser AnotherUser    4096 бер 29 17:41 storage
+-rw-r--r-- 1 AnotherUser AnotherUser     512 бер 29 17:41 storage.sqlite
+-rw-rw-r-- 1 AnotherUser AnotherUser       4 бер 29 17:41 Telemetry.ShutdownTime.txt
+-rwx------ 1 AnotherUser AnotherUser      47 бер 29 17:41 times.json
+-rw-rw-r-- 1 AnotherUser AnotherUser      10 бер 29 17:41 virtualFolders.dat
+-rw-r--r-- 1 AnotherUser AnotherUser   98304 бер 29 17:41 webappsstore.sqlite
+-rw------- 1 AnotherUser AnotherUser     331 бер 29 17:41 xulstore.json
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/crashes:
+total 4
+drwx------ 2 AnotherUser AnotherUser 4096 бер 29 17:41 events
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/crashes/events:
+total 0
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/extensions:
+total 0
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/minidumps:
+total 0
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/storage:
+total 4
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:41 permanent
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/storage/permanent:
+total 4
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:41 chrome
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/storage/permanent/chrome:
+total 8
+drwxr-xr-x 3 AnotherUser AnotherUser 4096 бер 29 17:41 idb
+-rw-rw-r-- 1 AnotherUser AnotherUser   42 бер 29 17:41 .metadata-v2
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/storage/permanent/chrome/idb:
+total 52
+drwxr-xr-x 2 AnotherUser AnotherUser  4096 бер 29 17:41 3870112724rsegmnoittet-es.files
+-rw-r--r-- 1 AnotherUser AnotherUser 49152 бер 29 17:41 3870112724rsegmnoittet-es.sqlite
+
+/home/AnotherUser/.thunderbird/ipedfwh4.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files:
+total 0
+
+/home/AnotherUser/.thunderbird/Pending Pings:
+total 0
+
+/home/AnotherUser/tmp:
+total 4
+drwxr-xr-x 2 AnotherUser AnotherUser 4096 тра  2 22:26 dir1.ls
+
+/home/AnotherUser/tmp/dir1.ls:
+total 92
+-rw-r--r-- 1 AnotherUser AnotherUser    75 тра  2 22:26 log
+-rw-r--r-- 1 AnotherUser AnotherUser   133 тра  2 22:26 log2
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 тра  2 22:26 .log.swi
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 тра  2 22:26 .log.swj
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 тра  2 22:26 .log.swk
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 тра  2 22:26 .log.swl
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 тра  2 22:26 .log.swm
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 тра  2 22:26 .log.swp
+-rw-r--r-- 1 AnotherUser AnotherUser 12288 тра  2 22:26 .log.txt.swp
+
+/home/AnotherUser/Videos:
+total 0
