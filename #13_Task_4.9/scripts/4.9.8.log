@@ -1,0 +1,17 @@
+#!/bin/bash
+#Subtask 4.9.8
+echo "============"
+echo "Task 4.9.8:"
+echo
+crop=${PATH#*a}
+echo "\$PATH: $PATH"
+echo "First posistion of \"a\" symbol"
+echo "$(( ${#PATH} - ${#crop} ))"
+
+
+============
+Task 4.9.8:
+
+$PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+First posistion of "a" symbol
+9

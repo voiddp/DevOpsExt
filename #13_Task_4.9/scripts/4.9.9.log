@@ -1,0 +1,14 @@
+#!/bin/bash
+#Subtask 4.9.9
+echo "============"
+echo "Task 4.9.9:"
+echo
+echo "before:"$'\t' "$(date)"
+echo "after:"$'\t' "$(date | awk '{print $1" "$3" "$2" "$4" "$5}')"
+echo "efter2:"$'\t' $(date '+%A, %B %d %Y %T')
+============
+Task 4.9.9:
+
+before:	 неділя, 3 травня 2020 21:04:58 +0300
+after:	 неділя, травня 3 2020 21:04:58
+efter2:	 неділя, травня 03 2020 21:04:58

@@ -1,0 +1,42 @@
+#!/bin/bash
+#Subtask 4.9.4
+echo "================"
+echo "Task 4.9.4:"
+echo
+num=$(find ~ -mindepth 1 -type d | grep -ve "/\." | rev | cut -d'/' -f1 | rev | wc -l)
+echo "In my home directory - ${num} subdirectories, excluding hidden:"
+find ~ -mindepth 1 -type d | grep -ve "/\." | rev | cut -d'/' -f1 | rev
+================
+Task 4.9.4:
+
+In my home directory - 30 subdirectories, excluding hidden:
+Music
+Public
+extracted
+test
+test2
+snap
+microk8s
+common
+1378
+tmp
+1341
+tmp
+Videos
+share
+Pictures
+Documents
+extracted3
+test
+test2
+extracted2
+test
+test2
+Templates
+tmp
+dir1.ls
+scripts
+Downloads
+4.8_script
+Desktop
+folder
