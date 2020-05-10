@@ -1,0 +1,17 @@
+#!/bin/bash
+##Task 4.11.5
+echo
+echo ===========
+echo "Task 4.11.5"
+echo "5 Processes with biggest memory use:"
+top -bn 1 -o %MEM | tail -n +7 | head -n 6
+
+===========
+Task 4.11.5
+5 Processes with biggest memory use:
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1173 danylen+  20   0 2984952 201616  63372 S  7,7 20,1   1:01.72 gnome-shell
+ 1589 danylen+  20   0 1055000 134452  14524 S  0,0 13,4   0:05.06 gnome-softw+
+ 1002 danylen+  20   0  405044  59820  27368 S  0,0  6,0   0:22.82 Xorg
+ 1479 danylen+  20   0  893664  50280  10360 S  0,0  5,0   0:00.54 evolution-c+
+ 1492 danylen+  20   0  932512  47464   8420 S  0,0  4,7   0:00.48 evolution-c+

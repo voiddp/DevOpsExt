@@ -1,0 +1,23 @@
+#!/bin/bash
+##Task 4.11.2
+echo
+echo ===========
+echo "Task 4.11.3"
+echo "Date/Time: "$(date '+%D %T')
+echo
+echo "logon users:"
+who
+echo
+echo "System uptime"
+uptime
+
+===========
+Task 4.11.3
+Date/Time: 05/10/20 16:05:25
+
+logon users:
+danylenko :0           2020-05-10 15:51 (:0)
+utest    tty2         2020-05-10 16:02
+
+System uptime
+ 16:05:25 up 14 min,  2 users,  load average: 0,04, 0,12, 0,15
