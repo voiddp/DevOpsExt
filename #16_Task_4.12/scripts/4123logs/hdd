@@ -1,0 +1,84 @@
+================================================
+05/12/20 20:00:11 state of HDD volumes
+================================================
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev              478072         0    478072   0% /dev
+tmpfs             100484      1364     99120   2% /run
+/dev/sda1       10253588   6336128   3376892  66% /
+tmpfs             502412         0    502412   0% /dev/shm
+tmpfs               5120         4      5116   1% /run/lock
+tmpfs             502412         0    502412   0% /sys/fs/cgroup
+/dev/loop0          3840      3840         0 100% /snap/gnome-system-monitor/127
+/dev/loop1          4480      4480         0 100% /snap/gnome-calculator/704
+/dev/loop2        164096    164096         0 100% /snap/gnome-3-28-1804/116
+/dev/loop3          1024      1024         0 100% /snap/gnome-logs/93
+/dev/loop4         56064     56064         0 100% /snap/core18/1668
+/dev/loop5         46080     46080         0 100% /snap/gtk-common-themes/1440
+/dev/loop6         49536     49536         0 100% /snap/gtk-common-themes/1474
+/dev/loop7          3840      3840         0 100% /snap/gnome-system-monitor/135
+/dev/loop8         93568     93568         0 100% /snap/core/8689
+/dev/loop9         15104     15104         0 100% /snap/gnome-characters/399
+/dev/loop10        15104     15104         0 100% /snap/gnome-characters/495
+/dev/loop11        56320     56320         0 100% /snap/core18/1705
+/dev/loop12        91264     91264         0 100% /snap/core/8268
+/dev/loop13         4352      4352         0 100% /snap/gnome-calculator/544
+/dev/loop14         1024      1024         0 100% /snap/gnome-logs/81
+tmpfs             100480        56    100424   1% /run/user/1000
+tmpfs             100480         0    100480   0% /run/user/1001
+scripts        218669212 145341504  73327708  67% /media/sf_scripts
+================================================
+05/12/20 20:02:11 state of HDD volumes
+================================================
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev              478072         0    478072   0% /dev
+tmpfs             100484      1364     99120   2% /run
+/dev/sda1       10253588   6336136   3376884  66% /
+tmpfs             502412         0    502412   0% /dev/shm
+tmpfs               5120         4      5116   1% /run/lock
+tmpfs             502412         0    502412   0% /sys/fs/cgroup
+/dev/loop0          3840      3840         0 100% /snap/gnome-system-monitor/127
+/dev/loop1          4480      4480         0 100% /snap/gnome-calculator/704
+/dev/loop2        164096    164096         0 100% /snap/gnome-3-28-1804/116
+/dev/loop3          1024      1024         0 100% /snap/gnome-logs/93
+/dev/loop4         56064     56064         0 100% /snap/core18/1668
+/dev/loop5         46080     46080         0 100% /snap/gtk-common-themes/1440
+/dev/loop6         49536     49536         0 100% /snap/gtk-common-themes/1474
+/dev/loop7          3840      3840         0 100% /snap/gnome-system-monitor/135
+/dev/loop8         93568     93568         0 100% /snap/core/8689
+/dev/loop9         15104     15104         0 100% /snap/gnome-characters/399
+/dev/loop10        15104     15104         0 100% /snap/gnome-characters/495
+/dev/loop11        56320     56320         0 100% /snap/core18/1705
+/dev/loop12        91264     91264         0 100% /snap/core/8268
+/dev/loop13         4352      4352         0 100% /snap/gnome-calculator/544
+/dev/loop14         1024      1024         0 100% /snap/gnome-logs/81
+tmpfs             100480        52    100428   1% /run/user/1000
+tmpfs             100480         0    100480   0% /run/user/1001
+scripts        218669212 145342100  73327112  67% /media/sf_scripts
+================================================
+05/12/20 20:04:11 state of HDD volumes
+================================================
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev              478072         0    478072   0% /dev
+tmpfs             100484      1364     99120   2% /run
+/dev/sda1       10253588   6336128   3376892  66% /
+tmpfs             502412         0    502412   0% /dev/shm
+tmpfs               5120         4      5116   1% /run/lock
+tmpfs             502412         0    502412   0% /sys/fs/cgroup
+/dev/loop0          3840      3840         0 100% /snap/gnome-system-monitor/127
+/dev/loop1          4480      4480         0 100% /snap/gnome-calculator/704
+/dev/loop2        164096    164096         0 100% /snap/gnome-3-28-1804/116
+/dev/loop3          1024      1024         0 100% /snap/gnome-logs/93
+/dev/loop4         56064     56064         0 100% /snap/core18/1668
+/dev/loop5         46080     46080         0 100% /snap/gtk-common-themes/1440
+/dev/loop6         49536     49536         0 100% /snap/gtk-common-themes/1474
+/dev/loop7          3840      3840         0 100% /snap/gnome-system-monitor/135
+/dev/loop8         93568     93568         0 100% /snap/core/8689
+/dev/loop9         15104     15104         0 100% /snap/gnome-characters/399
+/dev/loop10        15104     15104         0 100% /snap/gnome-characters/495
+/dev/loop11        56320     56320         0 100% /snap/core18/1705
+/dev/loop12        91264     91264         0 100% /snap/core/8268
+/dev/loop13         4352      4352         0 100% /snap/gnome-calculator/544
+/dev/loop14         1024      1024         0 100% /snap/gnome-logs/81
+tmpfs             100480        52    100428   1% /run/user/1000
+tmpfs             100480         0    100480   0% /run/user/1001
+scripts        218669212 145342284  73326928  67% /media/sf_scripts

@@ -1,0 +1,5 @@
+*/2 * * * * ~/tmp/scripts/4123_mem_cron.sh >/dev/null 2>&1
+
+*/5 * * * * ~/tmp/scripts/4123_logzip.sh >/dev/null 2>&1
+
+*/2 * * * * ~/tmp/scripts/4123_main.sh >/dev/null 2>&1
