@@ -19,7 +19,7 @@ Resources:
       SecurityGroupIngress:
         - IpProtocol: tcp
           FromPort: 300
-          ToPort: 300
+          ToPort: 3000
           CidrIp: 0.0.0.0/0
         - IpProtocol: tcp
           FromPort: 22
