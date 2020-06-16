@@ -18,8 +18,8 @@ Resources:
       GroupDescription: allow connections from SSH and Web
       SecurityGroupIngress:
         - IpProtocol: tcp
-          FromPort: 80
-          ToPort: 80
+          FromPort: 300
+          ToPort: 300
           CidrIp: 0.0.0.0/0
         - IpProtocol: tcp
           FromPort: 22
